@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sterabery.github.io/sitemap
+Sitemap: https://sterabery.github.io/app/sitemap
+Sitemap: https://sterabery.github.io/assets/sitemap
+Sitemap: https://sterabery.github.io/css/sitemap
+Sitemap: https://sterabery.github.io/includes/sitemap
+Sitemap: https://sterabery.github.io/item/sitemap
+Sitemap: https://sterabery.github.io/src/sitemap
